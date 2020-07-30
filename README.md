@@ -7,6 +7,7 @@ have access to every important detail of characteristics of real estates,
 making an appointment for an overview of real estate online, chat with available agents, etc.
 Visitors also have possibilities to give an offer for selling or renting their real estate by application for cooperation with the agency.
 
+[Link](https://gitlab.com/matfpveb/projekti/2019-2020/31-veb-sajt-agencije-za-nekretnine) to the project on official MATF PVEB GROUP on GitLab
 
 ## How to run project
 
